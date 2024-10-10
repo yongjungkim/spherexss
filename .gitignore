@@ -1,3 +1,7 @@
+# SPHEREx file
+Point_Source_Sensitivity_v28_base_cbe.txt
+Point_Source_Sensitivity_v28_base_cbe_detector.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
